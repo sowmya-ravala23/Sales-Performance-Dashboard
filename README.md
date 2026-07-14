@@ -47,5 +47,17 @@ This project analyzes sales data using Power BI to identify trends, regional per
 <img width="960" height="564" alt="dashboard1" src="https://github.com/user-attachments/assets/cb2a94b4-75dc-485c-8564-1bc57188f5d3" />
 <img width="960" height="564" alt="dashboard2" src="https://github.com/user-attachments/assets/caee953c-5e28-4daf-af24-d3da7944d718" />
 
+## Skills Demonstrated
+- Power BI
+- DAX
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- Business Intelligence
+- Data Analysis
+
+- ## Project Outcome
+This dashboard helps businesses monitor sales performance, identify top-performing products and regions, analyze customer trends, and make data-driven decisions.
+
 
 
